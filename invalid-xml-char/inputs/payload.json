@@ -1,0 +1,10 @@
+{
+  "title": "Remove Invalid XML Character",
+  "list": {
+    "char": [
+        "Invalid Char: 0x00 - '\u0000'",
+        "Invalid Char: 0x1A - '\u001a'",
+        "Invalid Char: 0x1F - '\u001F'"
+    ]
+  }
+}
