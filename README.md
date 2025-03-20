@@ -1,5 +1,8 @@
-# dataweave-utilities
-Useful DataWeave functions library
+# Dataweave Utilities
+
+#### Collection of useful dataweave functions
+
+<br>
 
 ### Remove Invalid XML Characters
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=EduardaSRBastos%2Fdataweave-utilities&path=invalid-xml-char">Dataweave Playground<a>
